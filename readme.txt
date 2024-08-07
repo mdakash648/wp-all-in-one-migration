@@ -1,4 +1,4 @@
-1. Install "all in one migration 6.7 " plugin.
+1. download and install "all in one migration 6.7 " plugin.
 2. click "plugin file editor"
 3. select "All in one migration " plugin
 4. click "constants.php"
